@@ -1,0 +1,50 @@
+body{
+  background-image:linear-gradient(45deg, #e3f0fc, ##f9f5ff);
+}
+h2{
+  color:navy;
+  font-size:26px;
+  font-style:calibri;
+  font-family:helvetica;
+  font-weight:700;
+  font-style:italic;
+  text-align:center;
+}
+p{
+  color:navy;
+  font-family:helvetica;
+  text-align:center
+}
+.yeah{
+  color:navy;
+}
+
+button{
+  background-color: white;
+  border: 2px solid navy;
+  color: navy;
+  height: 32px;
+  width: 300px;
+  text-align: center;
+  display: inline-block;
+  font-size: 15px;
+  font-style:italic;
+  margin: 10px; 
+}
+
+div{text-align:center}
+input{background-color: white;
+  background-color: white;
+  border: 2px solid navy;
+  color: navy;
+  height: 32px;
+  width: 290px;
+  text-align: center;
+  display: inline-block;
+  font-size: 15px;
+  font-style:italic;
+  margin: 10px}
+    
+img{
+  height:150px
+}
